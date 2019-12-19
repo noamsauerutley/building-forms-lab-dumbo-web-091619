@@ -1,5 +1,8 @@
 // Add BandInput component
 import React, { Component } from 'react'
+state = {
+  text: ""
+}
 
 class BandInput extends Component {
   render() {
